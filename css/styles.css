@@ -1,0 +1,80 @@
+/****** Element Tags ******/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+  width: 50%;
+  margin: 50px auto 0 auto;
+  font-family: 'Alegreya', serif;
+  font-size: 5.625rem;
+}
+
+h2 {
+ font-family: 'Roboto', sans-serif;
+ font-size: 2.5rem;
+ color: #07031a;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+footer {
+  background-color: #7c3c21;
+  margin: 0;
+}
+
+
+
+/****** Class Tags ******/
+.top-container {
+  background-color: #e8e4e1;
+  position: relative;
+  padding-top: 148px;
+}
+
+.middle-container {
+  background-color: #f9c49a;
+}
+
+.bottom-container {
+  background-color: #ec823a;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: relative;
+  width: 20%;
+  top: 20px;
+  left: 280px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  width: 15%;
+  margin: 0 -100px;
+}
+
+.profile-pic {
+  width: 15%;
+  height: 15%;
+}
+
+.skill-icons {
+  width: 15%;
+  height: auto;
+  margin-top: 20px;
+}
+
+.skills-table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/****** ID Tags ******/
